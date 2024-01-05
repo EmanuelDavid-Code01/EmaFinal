@@ -12,5 +12,5 @@ De todas maneras se puede crear un usuario nuevo de manera correcta.
 
 Url del deploy realizado en Railway:
 
-Logueado como admin se puede acceder a:
+emafinal-production.up.railway.app
 
